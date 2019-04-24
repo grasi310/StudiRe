@@ -38,6 +38,7 @@ public class CacheConfiguration {
             cm.createCache(lab.grasi.domain.User.class.getName(), jcacheConfiguration);
             cm.createCache(lab.grasi.domain.Authority.class.getName(), jcacheConfiguration);
             cm.createCache(lab.grasi.domain.User.class.getName() + ".authorities", jcacheConfiguration);
+            cm.createCache(lab.grasi.domain.Student.class.getName(), jcacheConfiguration);
             // jhipster-needle-ehcache-add-entry
         };
     }
