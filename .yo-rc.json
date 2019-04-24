@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "lab.grasi"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "StudiRe",
+        "packageName": "lab.grasi",
+        "packageFolder": "lab/grasi",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YjM1MWRlNGZiOTc0ZDhhYTkzY2JlNzI1YTNhNzY2YzEzZjFkMzAzZjAyMThkNGNmNzRjZjg1ZGE3N2FkYjJkYTk5Nzc2OTRhNTJkYzM0NWY2ODQxNGZmOTYwZDY4MDE3M2U5NGE3M2JhODZmNWRkZjMyMjFjNTExMGY3Yzc2ZTE=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
