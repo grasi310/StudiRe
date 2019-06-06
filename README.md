@@ -179,3 +179,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [definitelytyped]: http://definitelytyped.org/ '# StudiRe'
 
 "# StudiRe"
+"# StudiRe"
